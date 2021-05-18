@@ -308,7 +308,7 @@
   background-color: #fff;
   white-space: nowrap;
   overflow: visible;
-  color: #333;
+  color: rgb(0, 255, 0);
 }
 
 .tabulator .tabulator-tableHolder .tabulator-table .tabulator-row.tabulator-calcs {
@@ -462,15 +462,15 @@
   position: relative;
   box-sizing: border-box;
   min-height: 22px;
-  background-color: #fff;
+  background-color: #2e2e2e ;
 }
 
 .tabulator-row.tabulator-row-even {
-  background-color: #EFEFEF;
+  background-color: #141414 ;
 }
 
 .tabulator-row.tabulator-selectable:hover {
-  background-color: #bbb;
+  background-color: rgb(0, 0, 0);
   cursor: pointer;
 }
 
